@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoain\\source\\repos\\ApiSignalRElectron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8423204-20C9-5DAC-AA8C-0E2F6F605BA9}|ApiSignalRElectron\\ApiSignalRElectron.csproj|c:\\users\\hoain\\source\\repos\\apisignalrelectron\\apisignalrelectron\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8423204-20C9-5DAC-AA8C-0E2F6F605BA9}|ApiSignalRElectron\\ApiSignalRElectron.csproj|solutionrelative:apisignalrelectron\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8423204-20C9-5DAC-AA8C-0E2F6F605BA9}|ApiSignalRElectron\\ApiSignalRElectron.csproj|c:\\users\\hoain\\source\\repos\\apisignalrelectron\\apisignalrelectron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8423204-20C9-5DAC-AA8C-0E2F6F605BA9}|ApiSignalRElectron\\ApiSignalRElectron.csproj|solutionrelative:apisignalrelectron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\hoain\\source\\repos\\ApiSignalRElectron\\ApiSignalRElectron\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ApiSignalRElectron\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\hoain\\source\\repos\\ApiSignalRElectron\\ApiSignalRElectron\\ChatHub.cs",
+              "RelativeToolTip": "ApiSignalRElectron\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:30:38.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoain\\source\\repos\\ApiSignalRElectron\\ApiSignalRElectron\\Program.cs",
+              "RelativeDocumentMoniker": "ApiSignalRElectron\\Program.cs",
+              "ToolTip": "C:\\Users\\hoain\\source\\repos\\ApiSignalRElectron\\ApiSignalRElectron\\Program.cs",
+              "RelativeToolTip": "ApiSignalRElectron\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:30:03.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
